@@ -11,3 +11,23 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.header{
+  height: 70px;
+  width: 100%;
+  background-color: brown;
+}
+.knife{
+  position: relative;
+  height: 30px;
+  width: 50px;
+  color: white;
+  top: 15px;
+  
+}
+.food_logo{
+  color: white;
+  font-weight: bold;
+  font-size: larger;
+  position: relative;
+  top: 7px;
+}

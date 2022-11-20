@@ -1,0 +1,136 @@
+.welcome{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 4rem;
+}
+.go_to_menu{
+    position: relative;
+    bottom: 30px;
+    border: none;
+    font-size: 1rem;
+    background-color:crimson;
+    color: white;
+    height: 25px;
+    width: 200px;
+    border-radius: 30px;
+    cursor: pointer;
+}
+.bag{
+    position: relative;
+    left:95%;
+    bottom: 60px;
+    height: 30px;
+  width: 50px;
+  color: black;
+  cursor: pointer;
+}
+.thankyou{
+    position: relative;
+    left: 500px;
+    top: 100px;
+    height: 150px;
+    width: 800px;
+    border:2px solid gray;
+}
+.check{
+    position: relative;
+    left: 350px;
+    top: 30px;
+    font-size: 20px;
+}
+.thankOrder{
+    position: relative;
+    top: 30px;
+    left: 50px;
+    font-size: 20px;
+
+}
+
+.all_data{
+    height: 320px;
+   width: 300px;
+   border: 1px solid black;
+   margin: auto ;
+   margin-top: 20px;
+   box-sizing: content-box;
+
+
+   
+}
+.rightbar{
+
+    display: grid;
+   grid-template-columns: 0.3fr 0.3fr 0.3fr;
+   box-sizing: content-box;
+
+   row-gap: 30px;
+   
+
+}
+.btn{
+    margin-left: 30px;
+    display: flex;
+    justify-content: space-around;
+   
+}
+.inc{
+    height: 30px;
+    width: 80px;
+    background-color: brown;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+    
+}
+.dec{
+    height: 30px;
+    width: 80px;
+    background-color: gray;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+}
+.price{
+    position: relative;
+    left: 30px;
+    color: gray;
+    font-size: 15px;
+    font-weight: bold;
+    
+}
+.popUp{
+    text-align: center;
+    height: 200px;
+    width: 500px;
+    bottom: 250px;
+
+}
+.save{
+   position: relative;
+   left: 150px;
+   top: 50px;
+   background-color: brown;
+   border: none;
+   border-radius: 30px;
+   color: wheat;
+}
+.close{
+    position: relative;
+   left: 50px;
+   top: 50px;
+   background-color: brown;
+   border: none;
+   border-radius: 30px;
+}
+.inc_dec{
+    position: relative;
+    left:120px;
+}
+.price_name{
+    position: relative;
+    top: 55px;
+    right: 120px;
+}
+

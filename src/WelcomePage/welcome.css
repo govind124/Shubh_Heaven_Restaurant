@@ -1,0 +1,73 @@
+.box{
+    position: relative;
+    height: 400px;
+    width: 500px;
+    border: 3px solid gray;
+    border-radius: 30px;
+    left: 500px;
+    top: 100px;
+    background-color: slategray;
+}
+.login_logo{
+    position: relative;
+    left: 200px;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: underline;
+}
+.login_data{
+    position: relative;
+    left: 100px;
+    top: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.input_login{
+    position: inherit;
+    left: 30px;
+}
+.input_login-1{
+    position: inherit;
+    left: 50px;
+}
+.login_Submit{
+    height: 30px;
+    width: 70px;
+    background-color: brown;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    border: none;
+    cursor: pointer;
+    position: relative;
+    top: 60px;
+    right: 100px;
+}
+.create_acc{
+    position: relative;
+    font-weight:400;
+    left: 180px;
+    top: 150px;
+    cursor: pointer;
+    color: burlywood;
+}
+/* ------------------------signUp-------------------- */
+
+
+.sign_data{
+  position: relative;
+  left: 80px;
+  font-family: 'Times New Roman', Times, serif;
+  height: 30px;
+ 
+}
+.input_sign_1{
+    position: relative;
+    left: 100px;
+}
+.input_sign_2{
+    position: relative;
+    left:77px;
+}
+.input_sign_3{
+    position: relative;
+    left: 20px;
+}
+

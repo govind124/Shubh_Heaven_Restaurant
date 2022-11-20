@@ -1,0 +1,12 @@
+<div className='image'>
+        <img src="https://images.unsplash.com/photo-1571091718767-18b5b1457add?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8YnVyZ2VyfGVufDB8fDB8fA%3D%3D&w=1000&q=80" alt="" />
+
+        </div>
+        <div className="data">
+            <h3>Burger</h3>
+            <h5>price:300</h5>
+        </div>
+        <div className="btn">
+            <button>+</button>
+            <button>-</button>
+        </div>
