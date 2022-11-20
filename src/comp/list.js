@@ -9,7 +9,7 @@ const Comp = (propos) => {
     <div className='all_data'>
       
         <div className="img" >
-            <img src={image} alt="" style={{height:"200px",width:"300px"}} />
+            <img src={image} alt="" style={{height:"200px",width:"300px",borderRadius:"30px"}} />
         </div>
         <div className="data">
             <h3 className='price'>
