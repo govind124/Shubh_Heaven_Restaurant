@@ -1,5 +1,4 @@
 import React from 'react';
-import Login from './WelcomePage/Login';
 import { ImSpoonKnife } from "react-icons/im";
 import SignUp from './WelcomePage/SignUp';
 import "./index.css"
