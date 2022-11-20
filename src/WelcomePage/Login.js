@@ -1,6 +1,5 @@
 import React from 'react'
 import {Link} from 'react-router-dom';
-import MenuPage from '../Food_Pages/MenuPage'
 import "./welcome.css"
 
 
