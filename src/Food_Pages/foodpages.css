@@ -53,7 +53,8 @@
    margin: auto ;
    margin-top: 20px;
    box-sizing: content-box;
-
+   border-radius: 30px;
+   
 
    
 }
@@ -64,6 +65,8 @@
    box-sizing: content-box;
 
    row-gap: 30px;
+   border-radius: 30px;
+
    
 
 }
@@ -81,6 +84,8 @@
     border: none;
     cursor: pointer;
     font-weight: bold;
+   border-radius: 30px;
+
     
 }
 .dec{
@@ -91,6 +96,8 @@
     border: none;
     cursor: pointer;
     font-weight: bold;
+   border-radius: 30px;
+
 }
 .price{
     position: relative;
